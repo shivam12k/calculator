@@ -13,10 +13,6 @@
 }
 
 [data-theme="dark"] {
-  --primary-color: #333;
-  --header-color: #000;
-  --body-color: #fff;
-  --foter-bg: #000;
   --footer-hover: #fff;
   --font-color: #333;
   --button-color: #e6e6e6;
